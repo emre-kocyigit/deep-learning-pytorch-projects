@@ -6,7 +6,7 @@ A collection of deep learning projects built with PyTorch, demonstrating practic
 
 | # | Project | Description | Key Concepts |
 |---|---------|-------------|--------------|
-| 1 | [CIFAR-10 CNN Comparison](./CIFAR'10 CNN Comparison/) | Train and compare a basic vs improved CNN on CIFAR-10 | CNNs, BatchNorm, Dropout, Model Evaluation |
+| 1 | [CIFAR-10 CNN Comparison](01-cifar10-cnn-comparison/) | Train and compare a basic vs improved CNN on CIFAR-10 | CNNs, BatchNorm, Dropout, Model Evaluation |
 
 > More projects coming soon — covering topics like transfer learning, GANs, NLP, and more.
 
