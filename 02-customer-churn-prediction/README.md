@@ -8,7 +8,7 @@ Build a neural network that predicts whether a bank customer will leave (churn) 
 
 ## Dataset
 
-- **Source:** Bank customer data (10,000 records)
+- **Source:** Bank customer data (10,000 records) - https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset
 - **Features:** CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary
 - **Target:** Exited (1 = Churned, 0 = Stayed)
 - **Class distribution:** ~80/20 imbalance
