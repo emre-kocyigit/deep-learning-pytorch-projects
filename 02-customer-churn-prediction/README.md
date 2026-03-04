@@ -78,11 +78,6 @@ The notebook saves four files needed for production deployment:
 ## How to Run
 
 1. Open in Google Colab:
-
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/deep-learning-pytorch/blob/main/02-customer-churn-prediction/notebooks/customer_churn_prediction.ipynb)
-
-   > Replace `YOUR_USERNAME` with your GitHub username.
-
 2. Upload `customer_data.csv` to Colab or mount Google Drive
 3. Enable GPU (optional): **Runtime → Change runtime type → T4 GPU**
 4. Run all cells: **Runtime → Run all** (`Ctrl+F9`)
